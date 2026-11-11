@@ -1,1 +1,0 @@
-# coddy-ai-prompts-course
